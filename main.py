@@ -9,7 +9,7 @@ def lin():
 while escolha != "sair":
 
     escolha = input("1 - Cadastrar | 2 - Pesquisar | 3 - Listar | 4 - Modificar | 5 - Excluir | Ou digite "
-                    "'Sair' para encerrar a Agenda")
+                    "'Sair' para encerrar: \n")
 
 
     if escolha == "1":
